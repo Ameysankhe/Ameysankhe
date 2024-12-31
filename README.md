@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Amey Sankhe, a tech enthusiast building innovative platforms and learning every day.<br><br>🌟 Currently developing Weconnect, a middleware platform that bridges YouTubers and editors for seamless collaboration.<br>🤖 Exploring the fascinating world of Machine Learning and its real-world applications.<br>🤝 Open to collaborations with professionals in the full-stack and machine learning domains to exchange ideas and grow together.<br><br>Feel free to reach out—let's create something amazing!
+Hi there! 👋 I'm Amey Sankhe, a tech enthusiast building innovative platforms and learning every day.<br><br>🌟 Currently developing Youconnect, a middleware platform that bridges YouTubers and editors for seamless collaboration.<br>🤖 Exploring the fascinating world of Machine Learning and its real-world applications.<br>🤝 Open to collaborations with professionals in the full-stack and machine learning domains to exchange ideas and grow together.<br><br>Feel free to reach out—let's create something amazing!
 
 
 ## 🌐 Socials:
